@@ -6,9 +6,10 @@ My name is Andrej Baranovskij and I'm a Machine Learning expert and TensorFlow C
 
 ## &#9997; Blog
 
-I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.medium.com/) and you can watch my vlogs on [Youtube](https://www.youtube.com/c/AndrejBaranovskij).
+I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.medium.com/) and you can watch my vlogs on [YouTube](https://www.youtube.com/c/AndrejBaranovskij).
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2b82bc)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2b82bc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2b82bc)
@@ -22,6 +23,12 @@ I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.me
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2b82bc)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2b82bc)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2b82bc)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/abaranovskis-redsamurai/abaranovskis-redsamurai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaranovskis-redsamurai&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!-- links to social media icons -->
 
