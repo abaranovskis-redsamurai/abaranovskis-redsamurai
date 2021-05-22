@@ -28,27 +28,27 @@ I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.me
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abaranovskis-redsamurai/abaranovskis-redsamurai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaranovskis-redsamurai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaranovskis-redsamurai&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/abaranovskis-redsamurai/abaranovskis-redsamurai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abaranovskis-redsamurai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andrej's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abaranovskis-redsamurai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" alt="Andrej's GitHub Stats" />
 </a>
 
 <a href="https://github.com/katanaml/katana-skipper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-skipper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-skipper&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/katanaml/sample-apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=sample-apps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=sample-apps&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/katanaml/katana-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/katanaml/covid19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=covid19&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=covid19&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
