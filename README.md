@@ -9,7 +9,7 @@ My name is Andrej Baranovskij and I'm a Machine Learning expert and TensorFlow C
 I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.medium.com/) and you can watch my vlogs on [Youtube](https://www.youtube.com/c/AndrejBaranovskij).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-blue)
+![](https://img.shields.io/badge/OS-Linux-blue&logo=vue.js)
 ![](https://img.shields.io/badge/IDE-PyCharm-blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
