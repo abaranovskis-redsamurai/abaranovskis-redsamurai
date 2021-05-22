@@ -10,19 +10,20 @@ I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.me
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2b82bc)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2b82bc)
+![](https://img.shields.io/badge/OS-Linux-blue)
+![](https://img.shields.io/badge/IDE-PyCharm-blue)
+![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Code-JavaScript-blue)
+![](https://img.shields.io/badge/Code-Java-blue)
+![](https://img.shields.io/badge/Code-React-blue)
+![](https://img.shields.io/badge/Shell-Bash-blue)
+![](https://img.shields.io/badge/ML-TensorFlow-blue)
+![](https://img.shields.io/badge/ML-Jupyter-blue)
+![](https://img.shields.io/badge/ML-Google-blue)
+![](https://img.shields.io/badge/Tools-Oracle-blue)
+![](https://img.shields.io/badge/Tools-Docker-blue)
+![](https://img.shields.io/badge/Tools-Kubernetes-blue)
+![](https://img.shields.io/badge/Cloud-Oracle-blue)
 
 ## &#x1f4c8; GitHub Stats
 
