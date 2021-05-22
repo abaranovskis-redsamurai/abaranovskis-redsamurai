@@ -32,11 +32,12 @@ I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.me
 </a>
 
 <a href="https://github.com/abaranovskis-redsamurai/abaranovskis-redsamurai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abaranovskis-redsamurai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andrej's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abaranovskis-redsamurai&&count_private=true
+&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andrej's GitHub Stats" />
 </a>
 
 <a href="https://github.com/katanaml/katana-skipper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abaranovskis-redsamurai&repo=katana-skipper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-skipper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
