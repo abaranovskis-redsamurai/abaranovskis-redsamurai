@@ -2,7 +2,11 @@
 
 # Hi there 👋
 
-My name is Andrej Baranovskij and I'm a Machine Learning expert and TensorFlow Certified developer. Katana ML startup founder, products for business automation with ML. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Andrej Baranovskij and I'm a Machine Learning expert and TensorFlow Certified developer. [Katana ML](https://github.com/katanaml) startup founder, we build products for business automation with ML. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+## &#9997; Blog
+
+I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.medium.com/) and you can watch my vlogs on [Youtube](https://www.youtube.com/c/AndrejBaranovskij).
 
 <!-- links to social media icons -->
 
