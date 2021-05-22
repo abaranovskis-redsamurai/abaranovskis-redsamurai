@@ -39,15 +39,15 @@ I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.me
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-skipper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/katanaml/katana-skipper">
+<a href="https://github.com/katanaml/sample-apps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=sample-apps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/katanaml/katana-skipper">
+<a href="https://github.com/katanaml/katana-assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/katanaml/katana-skipper">
+<a href="https://github.com/katanaml/covid19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=covid19&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
