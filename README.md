@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com//abaranovskis-redsamurai/abaranovskis-redsamurai/abaranovskis-redsamurai/github_profile.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/abaranovskis-redsamurai/abaranovskis-redsamurai/abaranovskis-redsamurai/github_profile.png "Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
