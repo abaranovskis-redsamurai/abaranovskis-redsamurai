@@ -43,6 +43,14 @@ I'm prolific blogger - you can find my articles on [Medium](https://andrejusb.me
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=sample-apps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/katanaml/katana-skipper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=katana-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/katanaml/katana-skipper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katanaml&repo=covid19&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
